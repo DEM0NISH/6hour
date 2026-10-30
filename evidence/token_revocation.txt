@@ -1,0 +1,5 @@
+FICTIONAL EXERCISE RECORD — MER-EX-2026-001
+2026-11-07 04:14 +05:30 — Token family tok-ex-aria-01 revoked by platform responder platform-role-02.
+2026-11-07 04:16 +05:30 — Revocation confirmed by identity service; no secret values recorded.
+2026-11-07 04:18 +05:30 — Aria execution suspended; outbound mail connector disabled.
+All names, times, identifiers, and systems above are invented.

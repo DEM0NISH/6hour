@@ -1,0 +1,10 @@
+{
+  "agent": "Aria",
+  "owner": "fictional-sales-automation-team",
+  "credential_expiry": null,
+  "scopes": ["crm.customers.read.all", "crm.orders.read.all", "mailbox.read.all", "email.send.external"],
+  "outbound_recipient_allowlist": [],
+  "attachment_inspection": false,
+  "last_access_review": "not-recorded",
+  "note": "Invented weak configuration for tabletop use."
+}

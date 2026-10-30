@@ -1,0 +1,12 @@
+{
+  "case_id": "MER-EX-2026-001",
+  "alert_id": "ALERT-EX-8842",
+  "generated_at_local": "2026-11-07T02:40:00+05:30",
+  "rule": "agent_outbound_attachment_volume",
+  "agent": "Aria",
+  "attachment_count": 1,
+  "estimated_records": 12000,
+  "destination_domain": "example.com",
+  "severity_suggestion": "Sev1",
+  "note": "Entire record is invented for exercise use."
+}

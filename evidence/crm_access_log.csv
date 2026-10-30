@@ -1,0 +1,3 @@
+timestamp_local,principal,action,query_scope,estimated_rows,case_note
+2026-11-07T02:08:00+05:30,Aria,export,customers_active,12000,Invented exercise record
+2026-11-07T02:20:00+05:30,Aria,export,customers_recent_changes,840,Invented exercise record

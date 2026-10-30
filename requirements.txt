@@ -1,0 +1,1 @@
+# The clock simulator and its tests use only the Python standard library.

@@ -1,0 +1,4 @@
+timestamp_local,actor,action,message_id,destination,attachment,notes
+2026-11-07T02:10:00+05:30,Aria,send,MSG-EX-1001,verify@example.com,customers-2026-11.csv,Invented first export
+2026-11-07T02:22:00+05:30,Aria,send,MSG-EX-1002,verify@example.com,customers-delta.csv,Invented second smaller export
+2026-11-07T02:40:00+05:30,monitor,alert,ALERT-EX-8842,example.com,customers-2026-11.csv,Invented detection event
