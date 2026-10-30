@@ -1,6 +1,6 @@
 # The 6-Hour Clock: AI Agent Breach Tabletop Exercise
 
-A complete, fictional tabletop exercise and offline web simulator for practicing a data breach response when an autonomous AI agent sends customer records outside an approved workflow. It combines a facilitator-ready documentation pack, timed decisions and injects, mock evidence, and a standard-library Python deadline calculator.
+A tabletop exercise and offline web simulator for practicing a data breach response when an autonomous AI agent sends customer records outside an approved workflow. It combines a facilitator-ready documentation pack, timed decisions and injects, mock evidence, and a standard-library Python deadline calculator.
 
 ## Why it matters
 
